@@ -35,7 +35,7 @@ A modern, mobile-friendly web application that empowers citizens to report publi
 1. **Clone the repository**
    ```bash
    git clone https://github.com/Fatumayattani/city_report.git
-   cd cityreport
+   cd city_report
    ```
 
 2. **Install dependencies**
