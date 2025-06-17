@@ -34,7 +34,7 @@ A modern, mobile-friendly web application that empowers citizens to report publi
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Fatumayattani/city_report.git
    cd cityreport
    ```
 
@@ -161,6 +161,3 @@ If you encounter any issues or have questions:
 2. Create a new issue with detailed description
 3. Include steps to reproduce any bugs
 
----
-
-**Built with ❤️ for better communities**
